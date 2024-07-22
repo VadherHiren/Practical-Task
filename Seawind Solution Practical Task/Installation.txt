@@ -1,0 +1,8 @@
+1) Create a new app.
+
+2) Delete the src file and add my src file and db.json file to the new created app.
+
+3) Install "npm i json-server".
+
+4) Install "npm i react-router-dom bootstrap react-redux @reduxjs/toolkit".
+
